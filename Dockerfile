@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:rolling
 MAINTAINER Neil Cawse <neilcawse@hotmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
